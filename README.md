@@ -1,1 +1,1 @@
-Learning FLutter by creating different projects.
+Learning Flutter by creating different projects.
